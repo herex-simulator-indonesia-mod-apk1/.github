@@ -5,7 +5,7 @@ Herex Simulator Indonesia adalah game simulasi motor yang menghadirkan pengalama
 
 Game **simulator berkendara motor** ini menampilkan mekanisme **kompetisi kecepatan tinggi**, opsi kustomisasi luas, dan mode **petualangan berkendara bebas**. Pemain bisa berkendara secara bebas, memodifikasi motor, dan berkompetisi dalam balapan **drag bike 201M** yang menantang. **Mod motor Herex** memastikan gameplay yang seru dengan berbagai modifikasi tanpa batas.
 
-## Unduh Disini : ⬇️ https://tinyurl.com/5n9appcz 📲
+## Unduh Disini : ⬇️ https://tinyurl.com/5t3cd2vw 📲
 ![image](https://github.com/user-attachments/assets/a980e8f6-1abe-4eab-a164-8e251ffba99f)
 
 
